@@ -42,6 +42,7 @@ Weather App/
 ├── style.css
 ├── script.js
 ├── README.md
+└── 
 
 ### Prerequisites
 
