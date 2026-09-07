@@ -37,12 +37,14 @@ WeatherNow is a frontend-only weather application that lets users:
 
 ## Project Structure
 
+```text
 Weather App/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
-
+└── .gitignore (if present in your setup)
+```
 
 ### Prerequisites
 
